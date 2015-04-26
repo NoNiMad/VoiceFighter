@@ -1,0 +1,89 @@
+
+bullets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+comet-blue
+  rotate: false
+  xy: 0, 0
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+comet-purple
+  rotate: false
+  xy: 38, 0
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+comet-red
+  rotate: false
+  xy: 76, 0
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+arrow-blue
+  rotate: false
+  xy: 114, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+arrow-purple
+  rotate: false
+  xy: 138, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+arrow-red
+  rotate: false
+  xy: 162, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+round-blue
+  rotate: false
+  xy: 186, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+round-purple
+  rotate: false
+  xy: 210, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+round-red
+  rotate: false
+  xy: 234, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+seed-blue
+  rotate: false
+  xy: 258, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+seed-purple
+  rotate: false
+  xy: 282, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+seed-red
+  rotate: false
+  xy: 306, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
